@@ -1,12 +1,12 @@
 -- Criar a imagem do mysql
 - Criar o docker compose
 
-lembre-se que a imagem está para a classe como o container está para os atributos
+Lembre-se que a imagem está para a classe como o container está para os atributos
 
 DDL -> Data Definition Language
 DML -> Data Manipulation Language
 
-SQL ANSI -> Padronização  dos comandos SQL
+SQL ANSI -> Padronização dos comandos SQL
 
 Comandos SQL DLL:
 1. create database name;
